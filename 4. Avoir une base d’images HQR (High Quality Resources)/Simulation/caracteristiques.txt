@@ -1,0 +1,9 @@
+Ecran OLED Super Retina HD de 5,8 pouces ;
+Processeur Apple A11 Bionic 6 cœurs ;
+Puce graphique intégrée ;
+3 Go de mémoire vive (RAM) ;
+Batterie 2716 mAh avec une autonomie de 11 heures ;
+Connectivité Bluetooth 5.0 ;
+Connectivité Wi-Fi 802.11b, 11ac, 11g, 11n ;
+2 appareils photos 12 Mpx ;
+1 appareil photo frontal 7 Mpx ;
